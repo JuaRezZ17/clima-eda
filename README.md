@@ -5,7 +5,7 @@ Analizar la evolución de la **temperatura media** y las **precipitaciones** por
 
 ## Estructura
 - `data/temperaturas.csv`, `data/precipitaciones.csv`
-- `src/csv_loader.py`, `src/transforms.py`
+- `src/csv_loader.py`, `src/transforms.py`, `src/analysis.py`
 
 ## Ejecucion
 ```bash
