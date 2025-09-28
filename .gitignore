@@ -1,1 +1,5 @@
 .venv/
+.ipynb_checkpoints/
+output/
+__pycache__/
+clima_edad.egg-info/
