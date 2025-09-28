@@ -4,6 +4,7 @@
 Analizar la evolución de la **temperatura media** y las **precipitaciones** por ciudad y detectar **tendencias (°C/década)**, **anomalías** y **relaciones** básicas.
 
 ## Estructura
+- `data/temperaturas.csv`, `data/precipitaciones.csv`
 
 ## Ejecucion
 ```bash
